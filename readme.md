@@ -12,7 +12,7 @@ I'm a backend developer and co-founder in the following projects:
 <li><a href="https://flatscore.ru/">FlatScore</a></li>
 </ul>
 
-## 💻 My Stack
+## 💻 My Stack & Tools
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=262321&logo=Python&logoColor=3776AB&label=" alt="Python"></a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=262321&logo=Flask&logoColor=FFFFFF&label=" alt="Flask"></a>
 <a href="https://socket.io/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=262321&logo=Socket.io&logoColor=FFFFFF&label=" alt="SocketIO"></a>
@@ -42,4 +42,4 @@ I'm a backend developer and co-founder in the following projects:
 
 ### Contacts :coffee:
 <a target="_blank"  href="https://t.me/German_goncharov"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=262321&logo=Telegram&logoColor=3776AB&label=" alt="Telegram"></a>
-<a target="_blank"  href="mailto:"><img  src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=262321&logo=Instagram&logoColor=d96a6a&label=" alt="Email"></a>
+<a target="_blank"  href="mailto:goncharov_german@outlook.com"><img  src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=262321&logo=gmail&logoColor=d96a6a&label=" alt="Email"></a>
