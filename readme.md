@@ -23,8 +23,9 @@ I'm a backend developer and co-founder in the following projects:
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=262321&logo=Git&logoColor=F05032&label=" alt="Git"></a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=262321&logo=Postman&logoColor=FF6C37&label=" alt="Postman"></a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=262321&logo=Ubuntu&logoColor=E95420&label=" alt="Ubuntu"></a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=262321&logo=Docker&logoColor=003F8C&label=" alt="Docker"></a>
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=262321&logo=Kotlin&logoColor=7F52FF&label=" alt="Kotlin"></a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=262321&logo=Docker&logoColor=003F8C&label=" alt="Docker"></a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=262321&logo=Bootstrap&logoColor=732EF9&label=" alt="Bootstrap"></a>
 <a href="https://confluence.atlassian.com" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=262321&logo=confluence&logoColor=1F7AF5&label=" alt="Confluence"></a>
 <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=262321&logo=jira&logoColor=2583FE&label=" alt="Jira"></a>
 <a href="https://scrapy.org/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Scrapy&color=262321&logo=scrapy&logoColor=60A839&label=" alt="Scrapy"></a>
