@@ -16,22 +16,24 @@ I'm a backend developer and co-founder in the following projects:
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=262321&logo=Python&logoColor=3776AB&label=" alt="Python"></a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=262321&logo=Flask&logoColor=FFFFFF&label=" alt="Flask"></a>
 <a href="https://socket.io/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=262321&logo=Socket.io&logoColor=FFFFFF&label=" alt="SocketIO"></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=262321&logo=Socket.io&logoColor=FFFFFF&label=" alt="FastAPI"></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=262321&logo=FastAPI&logoColor=FFFFFF&label=" alt="FastAPI"></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=262321&logo=MySQL&logoColor=4479A1&label=" alt="MySQL"></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=262321&logo=PostgreSQL&logoColor=4169E1&label=" alt="PostgreSQL"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=262321&logo=Git&logoColor=F05032&label=" alt="Git"></a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=262321&logo=Postman&logoColor=FF6C37&label=" alt="Postman"></a>
-<a href="https://docs.pytest.org/en/7.2.x/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=262321&logo=Pytest&logoColor=0A9EDC&label=" alt="Pytest"></a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=262321&logo=Pytest&logoColor=0A9EDC&label=" alt="Ubuntu"></a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=262321&logo=Pytest&logoColor=0A9EDC&label=" alt="Docker"></a>
-<a href="https://kotlinlang.org" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=262321&logo=Socket.io&logoColor=FFFFFF&label=" alt="Kotlin"></a>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=262321&logo=Ubuntu&logoColor=F05032&label=" alt="Ubuntu"></a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=262321&logo=Docker&logoColor=0A9EDC&label=" alt="Docker"></a>
+<a href="https://kotlinlang.org" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=262321&logo=Kotlin&logoColor=FFFFFF&label=" alt="Kotlin"></a>
+<a href="https://confluence.atlassian.com" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=262321&logo=confluence&logoColor=3776AB&label=" alt="Confluence"></a>
+<a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=262321&logo=jira&logoColor=3776AB&label=" alt="Jira"></a>
+<a href="https://scrapy.org/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Scrapy&color=262321&logo=scrapy&logoColor=FFFFFF&label=" alt="Scrapy"></a>
 
 
 
 ## 👨🏻‍💻 My Stats
 <span>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=porebrikk&show_icons=true&count_private=true&theme=dark" />
+    <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=zak427zak&show_icons=true&count_private=true&theme=dark" />
   </a>
 </span> 
 <span> </span>
@@ -39,6 +41,5 @@ I'm a backend developer and co-founder in the following projects:
 
 
 ### Contacts :coffee:
-<a target="_blank"  href="https://career.habr.com/porebrikk"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Habr&color=262321&logo=Habr&logoColor=3776AB&label=" alt="Habr"></a>
-<a target="_blank"  href="https://t.me/porebrikk"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=262321&logo=Telegram&logoColor=3776AB&label=" alt="Telegram"></a>
-<a target="_blank"  href="https://www.instagram.com/porebrikk/"><img  src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=262321&logo=Instagram&logoColor=d96a6a&label=" alt="Instagram"></a>
+<a target="_blank"  href="https://t.me/German_goncharov"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=262321&logo=Telegram&logoColor=3776AB&label=" alt="Telegram"></a>
+<a target="_blank"  href="mailto:"><img  src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=262321&logo=Instagram&logoColor=d96a6a&label=" alt="Email"></a>
