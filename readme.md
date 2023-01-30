@@ -43,5 +43,5 @@ I'm a backend developer and co-founder in the following projects:
 ### Contacts :coffee:
 <a target="_blank"  href="https://t.me/German_goncharov"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=262321&logo=Telegram&logoColor=3776AB&label=" alt="Telegram"></a>
 <a target="_blank"  href="mailto:goncharov_german@outlook.com"><img  src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=262321&logo=gmail&logoColor=d96a6a&label=" alt="Email"></a>
-<a target="_blank"  href="https://t.me/German_goncharov"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=262321&logo=facebook&logoColor=0E8DF1&label=" alt="Facebook"></a>
-<a target="_blank"  href="https://t.me/German_goncharov"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=262321&logo=linkedin&logoColor=0A66C2&label=" alt="LinkedIn"></a>
+<a target="_blank"  href="https://www.facebook.com/goncharov.german.94/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=262321&logo=facebook&logoColor=0E8DF1&label=" alt="Facebook"></a>
+<a target="_blank"  href="www.linkedin.com/in/goncharov-german"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=262321&logo=linkedin&logoColor=0A66C2&label=" alt="LinkedIn"></a>
