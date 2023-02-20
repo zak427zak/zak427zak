@@ -32,6 +32,7 @@ I'm a back-end developer and co-founder of several russian real estate IT projec
 <a href="https://docs.pytest.org/en/7.2.x/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Rabbit MQ&color=262321&logo=rabbitmq&logoColor=FF6600&label=" alt="Rabbit MQ"></a>
 <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=262321&logo=selenium&logoColor=5FBB49&label=" alt="Selenium"></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=262321&logo=Bootstrap&logoColor=732EF9&label=" alt="Bootstrap"></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Digital Ocean&color=262321&logo=DigitalOcean&logoColor=0069FF&label=" alt="Digital Ocean"></a>
 <a href="https://confluence.atlassian.com" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=262321&logo=confluence&logoColor=1F7AF5&label=" alt="Confluence"></a>
 <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=262321&logo=jira&logoColor=2583FE&label=" alt="Jira"></a>
 <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram Bot API&color=262321&logo=telegram&logoColor=179CDE&label=" alt="Telegram Bot API"></a>
