@@ -5,11 +5,11 @@
 
 
 
-I'm a backend developer and co-founder in the following projects:
+I'm a back-end developer and co-founder of several russian real estate IT projects.<br>Here are the main ones in which I'm in the CTO position:
 <ul>
-<li><a href="https://aktier.ru/">AKTIER</a></li>
-<li><a href="https://flippet.ru/">Flippet</a></li>
-<li><a href="https://flatscore.ru/">FlatScore</a></li>
+<li><a href="https://aktier.ru/">AKTIER</a> - conversion ecosystem for real estate builders with mobile apps for their clients where they can manage properties like they are securities</li>
+<li><a href="https://flippet.ru/">Flippet</a> - Telegram bot that monitors popular real estate listing sites, instantly evaluates apartments and sends clients a profitability calculation using a flipping model</li>
+<li><a href="https://flatscore.ru/">FlatScore</a> - CRM system and core system based on the MACBETH mathematical model, which allows you to automate the process of selecting primary real estate for clients of large real estate marketplaces</li>
 </ul>
 
 ## 💻 My Stack & Tools
@@ -18,19 +18,23 @@ I'm a backend developer and co-founder in the following projects:
 <a href="https://socket.io/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=262321&logo=Socket.io&logoColor=FFFFFF&label=" alt="SocketIO"></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=262321&logo=FastAPI&logoColor=009485&label=" alt="FastAPI"></a>
 <a href="https://docs.pytest.org/en/7.2.x/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=262321&logo=Pytest&logoColor=0A9EDC&label=" alt="Pytest"></a>
+<a href="https://docs.pytest.org/en/7.2.x/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=262321&logo=redis&logoColor=DD392B&label=" alt="Redis"></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=262321&logo=MySQL&logoColor=4479A1&label=" alt="MySQL"></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=262321&logo=PostgreSQL&logoColor=4169E1&label=" alt="PostgreSQL"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=262321&logo=Git&logoColor=F05032&label=" alt="Git"></a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=262321&logo=Postman&logoColor=FF6C37&label=" alt="Postman"></a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=262321&logo=Ubuntu&logoColor=E95420&label=" alt="Ubuntu"></a>
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=262321&logo=Kotlin&logoColor=7F52FF&label=" alt="Kotlin"></a>
+<a href="https://scrapy.org/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Scrapy&color=262321&logo=scrapy&logoColor=60A839&label=" alt="Scrapy"></a>
+
+## 🔧 I'm also have experience in
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=262321&logo=Ubuntu&logoColor=E95420&label=" alt="Ubuntu"></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=262321&logo=Docker&logoColor=003F8C&label=" alt="Docker"></a>
+<a href="https://docs.pytest.org/en/7.2.x/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Rabbit MQ&color=262321&logo=rabbitmq&logoColor=FF6600&label=" alt="Rabbit MQ"></a>
+<a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=262321&logo=selenium&logoColor=5FBB49&label=" alt="Selenium"></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=262321&logo=Bootstrap&logoColor=732EF9&label=" alt="Bootstrap"></a>
 <a href="https://confluence.atlassian.com" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=262321&logo=confluence&logoColor=1F7AF5&label=" alt="Confluence"></a>
 <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=262321&logo=jira&logoColor=2583FE&label=" alt="Jira"></a>
-<a href="https://scrapy.org/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Scrapy&color=262321&logo=scrapy&logoColor=60A839&label=" alt="Scrapy"></a>
-
-
+<a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram Bot API&color=262321&logo=telegram&logoColor=179CDE&label=" alt="Telegram Bot API"></a>
 
 ## 👨🏻‍💻 My Stats
 <span>
@@ -41,9 +45,9 @@ I'm a backend developer and co-founder in the following projects:
 <span> </span>
 
 
-
 ### Contacts :coffee:
-<a target="_blank"  href="https://t.me/German_goncharov"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=262321&logo=Telegram&logoColor=3776AB&label=" alt="Telegram"></a>
-<a target="_blank"  href="mailto:goncharov_german@outlook.com"><img  src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=262321&logo=gmail&logoColor=d96a6a&label=" alt="Email"></a>
-<a target="_blank"  href="https://www.facebook.com/goncharov.german.94/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=262321&logo=facebook&logoColor=0E8DF1&label=" alt="Facebook"></a>
+<a target="_blank"  href="https://goncharovgerman.ru"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Portfolio&color=262321&logo=pack&logoColor=3776AB&label=" alt="Portfolio"></a>
 <a target="_blank"  href="https://www.linkedin.com/in/goncharov-german"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=262321&logo=linkedin&logoColor=0A66C2&label=" alt="LinkedIn"></a>
+<a target="_blank"  href="mailto:goncharov_german@outlook.com"><img  src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=262321&logo=gmail&logoColor=d96a6a&label=" alt="Email"></a>
+<a target="_blank"  href="https://t.me/German_goncharov"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=262321&logo=Telegram&logoColor=3776AB&label=" alt="Telegram"></a>
+<a target="_blank"  href="https://www.facebook.com/goncharov.german.94/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=262321&logo=facebook&logoColor=0E8DF1&label=" alt="Facebook"></a>
