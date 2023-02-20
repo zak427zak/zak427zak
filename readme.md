@@ -18,7 +18,7 @@ I'm a back-end developer and co-founder of several russian real estate IT projec
 <a href="https://socket.io/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=262321&logo=Socket.io&logoColor=FFFFFF&label=" alt="SocketIO"></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=262321&logo=FastAPI&logoColor=009485&label=" alt="FastAPI"></a>
 <a href="https://docs.pytest.org/en/7.2.x/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=262321&logo=Pytest&logoColor=0A9EDC&label=" alt="Pytest"></a>
-<a href="https://docs.pytest.org/en/7.2.x/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=262321&logo=redis&logoColor=DD392B&label=" alt="Redis"></a>
+<a href="https://redis.io/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=262321&logo=redis&logoColor=DD392B&label=" alt="Redis"></a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=262321&logo=MySQL&logoColor=4479A1&label=" alt="MySQL"></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=262321&logo=PostgreSQL&logoColor=4169E1&label=" alt="PostgreSQL"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=262321&logo=Git&logoColor=F05032&label=" alt="Git"></a>
@@ -29,13 +29,15 @@ I'm a back-end developer and co-founder of several russian real estate IT projec
 ## 🔧 I'm also have experience in
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=262321&logo=Ubuntu&logoColor=E95420&label=" alt="Ubuntu"></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=262321&logo=Docker&logoColor=003F8C&label=" alt="Docker"></a>
-<a href="https://docs.pytest.org/en/7.2.x/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Rabbit MQ&color=262321&logo=rabbitmq&logoColor=FF6600&label=" alt="Rabbit MQ"></a>
-<a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=262321&logo=selenium&logoColor=5FBB49&label=" alt="Selenium"></a>
+<a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Rabbit MQ&color=262321&logo=rabbitmq&logoColor=FF6600&label=" alt="Rabbit MQ"></a>
+<a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=262321&logo=selenium&logoColor=5FBB49&label=" alt="Selenium"></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=262321&logo=Bootstrap&logoColor=732EF9&label=" alt="Bootstrap"></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Digital Ocean&color=262321&logo=DigitalOcean&logoColor=0069FF&label=" alt="Digital Ocean"></a>
+<a href="https://www.digitalocean.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Digital Ocean&color=262321&logo=DigitalOcean&logoColor=0069FF&label=" alt="Digital Ocean"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=262321&logo=Firebase&logoColor=FFCA28&label=" alt="Firebase"></a>
 <a href="https://confluence.atlassian.com" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=262321&logo=confluence&logoColor=1F7AF5&label=" alt="Confluence"></a>
 <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=262321&logo=jira&logoColor=2583FE&label=" alt="Jira"></a>
-<a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram Bot API&color=262321&logo=telegram&logoColor=179CDE&label=" alt="Telegram Bot API"></a>
+<a href="https://core.telegram.org/bots/api" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram Bot API&color=262321&logo=telegram&logoColor=179CDE&label=" alt="Telegram Bot API"></a>
+
 
 ## 👨🏻‍💻 My Stats
 <span>
