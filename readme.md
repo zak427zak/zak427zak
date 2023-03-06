@@ -40,12 +40,19 @@ I'm a back-end developer and co-founder of several russian real estate IT projec
 
 
 ## 👨🏻‍💻 My Stats
+<!--
 <span>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=zak427zak&show_icons=true&count_private=true&theme=dark" />
   </a>
 </span> 
 <span> </span>
+-->
+
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=zak427zak&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="zak427zak" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zak427zak&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="zak427zak" align = "center"/></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zak427zak&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="zak427zak" /></p>
 
 
 ### Contacts :coffee:
