@@ -7,9 +7,9 @@
 
 I'm a back-end developer and co-founder of several russian real estate IT projects.<br>Here are the main ones in which I'm in the CTO position:
 <ul>
-<li><a href="https://aktier.ru/">AKTIER</a> - conversion ecosystem for real estate builders with mobile apps for their clients where they can manage properties like they are securities</li>
-<li><a href="https://flippet.ru/">Flippet</a> - Telegram bot that monitors popular real estate listing sites, instantly evaluates apartments and sends clients a profitability calculation using a flipping model</li>
-<li><a href="https://flatscore.ru/">FlatScore</a> - CRM system and core system based on the MACBETH mathematical model, which allows you to automate the process of selecting primary real estate for clients of large real estate marketplaces</li>
+<li><a href="https://aktier.ru/">AKTIER</a> - conversion ecosystem for real estate builders with mobile apps for their clients where they can manage properties like they are securities. Consists of core, CPM, mobile applications and many supporting web services</li>
+<li><a href="https://flippet.ru/">Flippet</a> - A service that monitors popular sites with real estate ads, instantly evaluates apartments and sends clients a profitability calculation using a flipping model. It consists of a core, CPM, signal web cards and a Telegram bot for fast signal delivery to subscribers.</li>
+<li><a href="https://flatscore.ru/">FlatScore</a> - Analytics core based on the Multiple Criteria Decision Support Systems (MACBETH), which allows you to automate the process of selecting primary real estate for clients of large real estate marketplaces. Consists of core and CPM system for client managers</li>
 </ul>
 
 ## 💻 My Stack & Tools
