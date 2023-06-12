@@ -46,7 +46,7 @@ I'm a back-end developer and co-founder of several russian real estate IT projec
 
 
 ### Contacts :coffee:
-<a target="_blank"  href="https://goncharovgerman.ru"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=💼 Portfolio&color=262321&logo=pack&logoColor=3776AB&label=" alt="Portfolio"></a>
+<!-- <a target="_blank"  href="https://goncharovgerman.ru"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=💼 Portfolio&color=262321&logo=pack&logoColor=3776AB&label=" alt="Portfolio"></a> -->
 <a target="_blank"  href="https://www.linkedin.com/in/goncharov-german"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=262321&logo=linkedin&logoColor=0A66C2&label=" alt="LinkedIn"></a>
 <a target="_blank"  href="mailto:goncharov_german@outlook.com"><img  src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=262321&logo=gmail&logoColor=d96a6a&label=" alt="Email"></a>
 <a target="_blank"  href="https://t.me/German_goncharov"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=262321&logo=Telegram&logoColor=3776AB&label=" alt="Telegram"></a>
