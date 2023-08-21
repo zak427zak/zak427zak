@@ -13,9 +13,15 @@ I'm a back-end developer and co-founder of several russian real estate IT projec
 </ul>
 
 ## 💻 My Stack & Tools
+<a href="https://nodejs.org/ru" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=node.js&color=262321&logo=node.js&logoColor=026e00&label=" alt="node.js"></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=vue.js&color=262321&logo=vue.js&logoColor=42bd86&label=" alt="vue.js"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=262321&logo=TypeScript&logoColor=3178c6&label=" alt="TypeScript"></a>
+<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=php&color=262321&logo=php&logoColor=4B578E&label=" alt="PHP"></a>
+<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=262321&logo=Laravel&logoColor=F9322C&label=" alt="Laravel"></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=262321&logo=Python&logoColor=3776AB&label=" alt="Python"></a>
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=262321&logo=Flask&logoColor=FFFFFF&label=" alt="Flask"></a>
 <a href="https://socket.io/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=262321&logo=Socket.io&logoColor=FFFFFF&label=" alt="SocketIO"></a>
+<a href="https://graphql.org/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=262321&logo=GraphQL&logoColor=f00198&label=" alt="GraphQL"></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=262321&logo=FastAPI&logoColor=009485&label=" alt="FastAPI"></a>
 <a href="https://docs.pytest.org/en/7.2.x/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=262321&logo=Pytest&logoColor=0A9EDC&label=" alt="Pytest"></a>
 <a href="https://redis.io/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=262321&logo=redis&logoColor=DD392B&label=" alt="Redis"></a>
@@ -29,13 +35,17 @@ I'm a back-end developer and co-founder of several russian real estate IT projec
 ## 🔧 I'm also have experience in
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=262321&logo=Ubuntu&logoColor=E95420&label=" alt="Ubuntu"></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=262321&logo=Docker&logoColor=003F8C&label=" alt="Docker"></a>
-<a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Rabbit MQ&color=262321&logo=rabbitmq&logoColor=FF6600&label=" alt="Rabbit MQ"></a>
+<a href="https://gitlab.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=262321&logo=GitLab&logoColor=e24329&label=" alt="GitLab"></a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=262321&logo=selenium&logoColor=5FBB49&label=" alt="Selenium"></a>
+<a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Rabbit MQ&color=262321&logo=rabbitmq&logoColor=FF6600&label=" alt="Rabbit MQ"></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=262321&logo=Bootstrap&logoColor=732EF9&label=" alt="Bootstrap"></a>
 <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Digital Ocean&color=262321&logo=DigitalOcean&logoColor=0069FF&label=" alt="Digital Ocean"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=262321&logo=Firebase&logoColor=FFCA28&label=" alt="Firebase"></a>
 <a href="https://confluence.atlassian.com" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=262321&logo=confluence&logoColor=1F7AF5&label=" alt="Confluence"></a>
 <a href="https://jira.atlassian.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=262321&logo=jira&logoColor=2583FE&label=" alt="Jira"></a>
+<a href="https://www.notion.so/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=262321&logo=Notion&logoColor=ffffff&label=" alt="Notion"></a>
+<a href="https://trello.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=262321&logo=Trello&logoColor=2583FE&label=" alt="Trello"></a>
+<a href="https://analytics.google.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google Analytics&color=262321&logo=Google Analytics&logoColor=e8710a&label=" alt="Google Analytics"></a>
 <a href="https://core.telegram.org/bots/api" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram Bot API&color=262321&logo=telegram&logoColor=179CDE&label=" alt="Telegram Bot API"></a>
 
 
