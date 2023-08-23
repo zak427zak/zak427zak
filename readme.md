@@ -36,6 +36,7 @@ I'm a full-stack web developer and co-founder of several Russian real estate IT 
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=262321&logo=Ubuntu&logoColor=E95420&label=" alt="Ubuntu"></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=262321&logo=Docker&logoColor=003F8C&label=" alt="Docker"></a>
 <a href="https://gitlab.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=262321&logo=GitLab&logoColor=e24329&label=" alt="GitLab"></a>
+<a href="https://sentry.io/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sentry&color=262321&logo=Sentry&logoColor=310f32&label=" alt="Sentry"></a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=262321&logo=selenium&logoColor=5FBB49&label=" alt="Selenium"></a>
 <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Rabbit MQ&color=262321&logo=rabbitmq&logoColor=FF6600&label=" alt="Rabbit MQ"></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=262321&logo=Bootstrap&logoColor=732EF9&label=" alt="Bootstrap"></a>
