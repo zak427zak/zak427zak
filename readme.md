@@ -14,7 +14,9 @@ I'm a full-stack web developer and co-founder of several Russian real estate IT 
 
 ## 💻 My Stack & Tools
 <a href="https://nodejs.org/ru" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=node.js&color=262321&logo=node.js&logoColor=026e00&label=" alt="node.js"></a>
+<a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=262321&logo=Angular&logoColor=c3002f&label=" alt="Angular"></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=vue.js&color=262321&logo=vue.js&logoColor=42bd86&label=" alt="vue.js"></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=262321&logo=NestJS&logoColor=ea2845&label=" alt="NestJS"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=262321&logo=TypeScript&logoColor=3178c6&label=" alt="TypeScript"></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=php&color=262321&logo=php&logoColor=4B578E&label=" alt="PHP"></a>
 <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=262321&logo=Laravel&logoColor=F9322C&label=" alt="Laravel"></a>
@@ -28,15 +30,15 @@ I'm a full-stack web developer and co-founder of several Russian real estate IT 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=262321&logo=MySQL&logoColor=4479A1&label=" alt="MySQL"></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=262321&logo=PostgreSQL&logoColor=4169E1&label=" alt="PostgreSQL"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=262321&logo=Git&logoColor=F05032&label=" alt="Git"></a>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=262321&logo=Postman&logoColor=FF6C37&label=" alt="Postman"></a>
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=262321&logo=Kotlin&logoColor=7F52FF&label=" alt="Kotlin"></a>
-<a href="https://scrapy.org/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Scrapy&color=262321&logo=scrapy&logoColor=60A839&label=" alt="Scrapy"></a>
+<a href="https://www.elastic.co/elasticsearch/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=262321&logo=Elasticsearch&logoColor=00bfb3&label=" alt="Elasticsearch"></a>
 
 ## 🔧 I'm also have experience in
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=262321&logo=Ubuntu&logoColor=E95420&label=" alt="Ubuntu"></a>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Unix&color=262321&logo=Ubuntu&logoColor=E95420&label=" alt="Unix"></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=262321&logo=Docker&logoColor=003F8C&label=" alt="Docker"></a>
 <a href="https://gitlab.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=262321&logo=GitLab&logoColor=e24329&label=" alt="GitLab"></a>
 <a href="https://sentry.io/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sentry&color=262321&logo=Sentry&logoColor=310f32&label=" alt="Sentry"></a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=262321&logo=Postman&logoColor=FF6C37&label=" alt="Postman"></a>
 <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=262321&logo=Heroku&logoColor=79589F&label=" alt="Heroku"></a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=262321&logo=selenium&logoColor=5FBB49&label=" alt="Selenium"></a>
 <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Rabbit MQ&color=262321&logo=rabbitmq&logoColor=FF6600&label=" alt="Rabbit MQ"></a>
