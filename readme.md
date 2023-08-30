@@ -18,6 +18,7 @@ I'm a full-stack web developer and co-founder of several Russian real estate IT 
 <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=vue.js&color=262321&logo=vue.js&logoColor=42bd86&label=" alt="vue.js"></a>
 <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=262321&logo=NestJS&logoColor=ea2845&label=" alt="NestJS"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=262321&logo=TypeScript&logoColor=3178c6&label=" alt="TypeScript"></a>
+<a href="https://webpack.js.org/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=262321&logo=Webpack&logoColor=5299c7&label=" alt="Webpack"></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=php&color=262321&logo=php&logoColor=4B578E&label=" alt="PHP"></a>
 <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=262321&logo=Laravel&logoColor=F9322C&label=" alt="Laravel"></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=262321&logo=Python&logoColor=3776AB&label=" alt="Python"></a>
