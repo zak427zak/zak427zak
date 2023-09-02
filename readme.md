@@ -51,6 +51,7 @@ I'm a full-stack web developer and co-founder of several Russian real estate IT 
 <a href="https://www.notion.so/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=262321&logo=Notion&logoColor=ffffff&label=" alt="Notion"></a>
 <a href="https://trello.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=262321&logo=Trello&logoColor=2583FE&label=" alt="Trello"></a>
 <a href="https://analytics.google.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google Analytics&color=262321&logo=Google Analytics&logoColor=e8710a&label=" alt="Google Analytics"></a>
+<a href="https://tagmanager.google.com/" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google Tag Manager&color=262321&logo=googletagmanager&logoColor=2583FE&label=" alt="Google Tag Manager"></a>
 <a href="https://core.telegram.org/bots/api" target="_blank"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram Bot API&color=262321&logo=telegram&logoColor=179CDE&label=" alt="Telegram Bot API"></a>
 
 
