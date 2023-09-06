@@ -67,3 +67,4 @@ I'm a full-stack web developer and co-founder of several Russian real estate IT 
 <a target="_blank"  href="mailto:goncharov_german@outlook.com"><img  src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=262321&logo=gmail&logoColor=d96a6a&label=" alt="Email"></a>
 <a target="_blank"  href="https://t.me/German_goncharov"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=262321&logo=Telegram&logoColor=3776AB&label=" alt="Telegram"></a>
 <a target="_blank"  href="https://www.facebook.com/goncharov.german.94/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=262321&logo=facebook&logoColor=0E8DF1&label=" alt="Facebook"></a>
+<a target="_blank"  href="https://stackoverflow.com/users/12029678/german-goncharov"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=stackoverflow&color=262321&logo=stackoverflow&logoColor=f48225&label=" alt="StackOverflow"></a>
